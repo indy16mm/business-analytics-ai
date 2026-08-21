@@ -24,47 +24,47 @@ with the listed dependency files.
 
 ### Chapters
 
-| Identifier | Title | GitHub | Colab |
-|---|---|---|---|
-| Ch 04 | Gradient Descent | [GitHub](notebooks/Ch04_Gradient_Descent.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch04_Gradient_Descent.ipynb) |
-| Ch 05 | Model Evaluation (Classification) | [GitHub](notebooks/Ch05_Model_Evaluation_Classification.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch05_Model_Evaluation_Classification.ipynb) |
-| Ch 05 | Model Evaluation (Regression) | [GitHub](notebooks/Ch05_Model_Evaluation_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch05_Model_Evaluation_Regression.ipynb) |
-| Ch 06 | Linear Regression | [GitHub](notebooks/Ch06_Linear_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch06_Linear_Regression.ipynb) |
-| Ch 07 | Logit: Customer Churn | [GitHub](notebooks/Ch07_Logit_Customer_Churn.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch07_Logit_Customer_Churn.ipynb) |
-| Ch 08 | SVM (Classification) | [GitHub](notebooks/Ch08_SVM_Bank_Customer.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch08_SVM_Bank_Customer.ipynb) |
-| Ch 08 | SVR (Housing Price) | [GitHub](notebooks/Ch08_SVR_Housing_Price.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch08_SVR_Housing_Price.ipynb) |
-| Ch 09 | KNN (Credit Card Fraud) | [GitHub](notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb) |
-| Ch 10 | Tree-based Models (Decision Tree) | [GitHub](notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb) |
-| Ch 10 | Tree-based Models (Random Forest) | [GitHub](notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb) |
-| Ch 10 | Housing Price: Decision Tree Regression | [GitHub](notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb) |
-| Ch 10 | Housing Price: Random Forest Regression | [GitHub](notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb) |
-| Ch 11 | Regularization (Student Performance) | [GitHub](notebooks/Ch11_Regularization_Student_Performance.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch11_Regularization_Student_Performance.ipynb) |
-| Ch 12 | Clustering (K-Modes) | [GitHub](notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb) |
-| Ch 12 | Clustering (K-Modes / K-Prototypes) | [GitHub](notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb) |
-| Ch 12 | Clustering (K-Means) | [GitHub](notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb) |
-| Ch 12 | Clustering (Hierarchical) | [GitHub](notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb) |
-| Ch 13 | Dimension Reduction (PCA) | [GitHub](notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb) |
-| Ch 14 | Foundations of Deep Learning | [GitHub](notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) |
-| Ch 15 | Vision Models | [GitHub](notebooks/Ch15_Vision_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch15_Vision_Models.ipynb) |
-| Ch 16 | Sequence and Attention Models | [GitHub](notebooks/Ch16_Sequence_and_Attention_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch16_Sequence_and_Attention_Models.ipynb) |
-| Ch 17 | Autoencoders and Representation Learning | [GitHub](notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb) |
-| Ch 18 | Classic Generative Models | [GitHub](notebooks/Ch18_Classic_Generative_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch18_Classic_Generative_Models.ipynb) |
-| Ch 19 | Modern Generative Models | [GitHub](notebooks/Ch19_Modern_Generative_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch19_Modern_Generative_Models.ipynb) |
-| Ch 20 | Text Pre-processing and Data Quality | [GitHub](notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb) |
-| Ch 21 | Embeddings and Similarity | [GitHub](notebooks/Ch21_Embeddings_and_Similarity.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch21_Embeddings_and_Similarity.ipynb) |
-| Ch 22 | Topic Modeling and Theme Discovery | [GitHub](notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb) |
-| Ch 23 | Sentiment and Text Classification | [GitHub](notebooks/Ch23_Sentiment_and_Text_Classification.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch23_Sentiment_and_Text_Classification.ipynb) |
-| Ch 24 | Transformers and Large Language Models | [GitHub](notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb) |
-| Ch 25 | Retrieval-Augmented Text Mining | [GitHub](notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb) |
+| ID | Title | Links |
+|---|---|---|
+| Ch 04 | Gradient Descent | [GH](notebooks/Ch04_Gradient_Descent.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch04_Gradient_Descent.ipynb) |
+| Ch 05 | Model Evaluation (Classification) | [GH](notebooks/Ch05_Model_Evaluation_Classification.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch05_Model_Evaluation_Classification.ipynb) |
+| Ch 05 | Model Evaluation (Regression) | [GH](notebooks/Ch05_Model_Evaluation_Regression.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch05_Model_Evaluation_Regression.ipynb) |
+| Ch 06 | Linear Regression | [GH](notebooks/Ch06_Linear_Regression.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch06_Linear_Regression.ipynb) |
+| Ch 07 | Logit: Customer Churn | [GH](notebooks/Ch07_Logit_Customer_Churn.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch07_Logit_Customer_Churn.ipynb) |
+| Ch 08 | SVM (Classification) | [GH](notebooks/Ch08_SVM_Bank_Customer.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch08_SVM_Bank_Customer.ipynb) |
+| Ch 08 | SVR (Housing Price) | [GH](notebooks/Ch08_SVR_Housing_Price.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch08_SVR_Housing_Price.ipynb) |
+| Ch 09 | KNN (Credit Card Fraud) | [GH](notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb) |
+| Ch 10 | Tree-based Models (Decision Tree) | [GH](notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb) |
+| Ch 10 | Tree-based Models (Random Forest) | [GH](notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb) |
+| Ch 10 | Housing Price: Decision Tree Regression | [GH](notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb) |
+| Ch 10 | Housing Price: Random Forest Regression | [GH](notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb) |
+| Ch 11 | Regularization (Student Performance) | [GH](notebooks/Ch11_Regularization_Student_Performance.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch11_Regularization_Student_Performance.ipynb) |
+| Ch 12 | Clustering (K-Modes) | [GH](notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb) |
+| Ch 12 | Clustering (K-Modes / K-Prototypes) | [GH](notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb) |
+| Ch 12 | Clustering (K-Means) | [GH](notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb) |
+| Ch 12 | Clustering (Hierarchical) | [GH](notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb) |
+| Ch 13 | Dimension Reduction (PCA) | [GH](notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb) |
+| Ch 14 | Foundations of Deep Learning | [GH](notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) |
+| Ch 15 | Vision Models | [GH](notebooks/Ch15_Vision_Models.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch15_Vision_Models.ipynb) |
+| Ch 16 | Sequence and Attention Models | [GH](notebooks/Ch16_Sequence_and_Attention_Models.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch16_Sequence_and_Attention_Models.ipynb) |
+| Ch 17 | Autoencoders and Representation Learning | [GH](notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb) |
+| Ch 18 | Classic Generative Models | [GH](notebooks/Ch18_Classic_Generative_Models.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch18_Classic_Generative_Models.ipynb) |
+| Ch 19 | Modern Generative Models | [GH](notebooks/Ch19_Modern_Generative_Models.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch19_Modern_Generative_Models.ipynb) |
+| Ch 20 | Text Pre-processing and Data Quality | [GH](notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb) |
+| Ch 21 | Embeddings and Similarity | [GH](notebooks/Ch21_Embeddings_and_Similarity.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch21_Embeddings_and_Similarity.ipynb) |
+| Ch 22 | Topic Modeling and Theme Discovery | [GH](notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb) |
+| Ch 23 | Sentiment and Text Classification | [GH](notebooks/Ch23_Sentiment_and_Text_Classification.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch23_Sentiment_and_Text_Classification.ipynb) |
+| Ch 24 | Transformers and Large Language Models | [GH](notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb) |
+| Ch 25 | Retrieval-Augmented Text Mining | [GH](notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb) |
 
 ### Appendices
 
-| Identifier | Title | GitHub | Colab |
-|---|---|---|---|
-| Appendix A | Google Colab | [GitHub](appendices/Appendix_A_Google_Colab.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_A_Google_Colab.ipynb) |
-| Appendix B | Python Basics | [GitHub](appendices/Appendix_B_Python_Basics.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_B_Python_Basics.ipynb) |
-| Appendix C | SQL for Business Analytics | [GitHub](appendices/Appendix_C_SQL_for_Business_Analytics.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_C_SQL_for_Business_Analytics.ipynb) |
-| Appendix D | NoSQL and Document-Oriented Databases | [GitHub](appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb) |
+| ID | Title | Links |
+|---|---|---|
+| Appendix A | Google Colab | [GH](appendices/Appendix_A_Google_Colab.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_A_Google_Colab.ipynb) |
+| Appendix B | Python Basics | [GH](appendices/Appendix_B_Python_Basics.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_B_Python_Basics.ipynb) |
+| Appendix C | SQL for Business Analytics | [GH](appendices/Appendix_C_SQL_for_Business_Analytics.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_C_SQL_for_Business_Analytics.ipynb) |
+| Appendix D | NoSQL and Document-Oriented Databases | [GH](appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb) / [CL](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb) |
 
 ## Repository structure
 
