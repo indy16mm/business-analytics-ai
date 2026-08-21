@@ -27,6 +27,23 @@ with the listed dependency files.
 | Identifier | Title | GitHub notebook | Google Colab |
 |---|---|---|---|
 | Ch 04 | Gradient Descent | [notebooks/Ch04_Gradient_Descent.ipynb](notebooks/Ch04_Gradient_Descent.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch04_Gradient_Descent.ipynb) |
+| Ch 05 | Model Evaluation (Classification) | [notebooks/Ch05_Model_Evaluation_Classification.ipynb](notebooks/Ch05_Model_Evaluation_Classification.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch05_Model_Evaluation_Classification.ipynb) |
+| Ch 05 | Model Evaluation (Regression) | [notebooks/Ch05_Model_Evaluation_Regression.ipynb](notebooks/Ch05_Model_Evaluation_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch05_Model_Evaluation_Regression.ipynb) |
+| Ch 06 | Linear Regression | [notebooks/Ch06_Linear_Regression.ipynb](notebooks/Ch06_Linear_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch06_Linear_Regression.ipynb) |
+| Ch 07 | Logit: Customer Churn | [notebooks/Ch07_Logit_Customer_Churn.ipynb](notebooks/Ch07_Logit_Customer_Churn.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch07_Logit_Customer_Churn.ipynb) |
+| Ch 08 | SVM (Classification) | [notebooks/Ch08_SVM_Bank_Customer.ipynb](notebooks/Ch08_SVM_Bank_Customer.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch08_SVM_Bank_Customer.ipynb) |
+| Ch 08 | SVR (Housing Price) | [notebooks/Ch08_SVR_Housing_Price.ipynb](notebooks/Ch08_SVR_Housing_Price.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch08_SVR_Housing_Price.ipynb) |
+| Ch 09 | KNN (Credit Card Fraud) | [notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb](notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch09_KNN_Credit_Card_Fraud.ipynb) |
+| Ch 10 | Tree-based Models (Decision Tree) | [notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb](notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Tree_Based_Models_Decision_Tree.ipynb) |
+| Ch 10 | Tree-based Models (Random Forest) | [notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb](notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Tree_Based_Models_Random_Forest.ipynb) |
+| Ch 10 | Housing Price: Decision Tree Regression | [notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb](notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Housing_Price_Decision_Tree_Regression.ipynb) |
+| Ch 10 | Housing Price: Random Forest Regression | [notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb](notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch10_Housing_Price_Random_Forest_Regression.ipynb) |
+| Ch 11 | Regularization (Student Performance) | [notebooks/Ch11_Regularization_Student_Performance.ipynb](notebooks/Ch11_Regularization_Student_Performance.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch11_Regularization_Student_Performance.ipynb) |
+| Ch 12 | Clustering (K-Modes) | [notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb](notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Bank_Customer_K_Modes.ipynb) |
+| Ch 12 | Clustering (K-Modes / K-Prototypes) | [notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb](notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Bank_Customer_K_Modes_K_Prototypes.ipynb) |
+| Ch 12 | Clustering (K-Means) | [notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb](notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Wholesale_Customer_KMeans.ipynb) |
+| Ch 12 | Clustering (Hierarchical) | [notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb](notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch12_Clustering_Wholesale_Customer_Hierarchical.ipynb) |
+| Ch 13 | Dimension Reduction (PCA) | [notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb](notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch13_Dimension_Reduction_Wine_PCA.ipynb) |
 | Ch 14 | Foundations of Deep Learning | [notebooks/Ch14_Foundations_of_Deep_Learning.ipynb](notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) |
 | Ch 15 | Vision Models | [notebooks/Ch15_Vision_Models.ipynb](notebooks/Ch15_Vision_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch15_Vision_Models.ipynb) |
 | Ch 16 | Sequence and Attention Models | [notebooks/Ch16_Sequence_and_Attention_Models.ipynb](notebooks/Ch16_Sequence_and_Attention_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch16_Sequence_and_Attention_Models.ipynb) |
@@ -79,7 +96,9 @@ business-analytics-ai/
 
 ## Data and privacy policy
 
-- Companion notebooks are intended to run on synthetic or clearly documented data-generation paths.
+- Companion notebooks rely on locally included small demonstration datasets in `data/` where provided.
+- Small, approved, redistributable dataset files included: `Bank customer.csv`, `Credit card fraud.csv`, `Customer churn.csv`, `Housing price.csv`, `Movie.csv`, `Student performance.csv`, `Wholesale customer.csv`, and `Wine.csv`.
+- Some examples also support optional remote dataset sources documented in notebooks.
 - No manuscript files, private datasets, model checkpoints, or credentials are included in this repository.
 - Do not commit private or restricted materials.
 
