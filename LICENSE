@@ -1,0 +1,114 @@
+LIMITED COMPANION MATERIALS LICENSE
+Version 1.0
+
+Copyright (c) 2026 Hyunhwan "Aiden" Lee and Reo Song.
+All rights reserved.
+
+1. Materials
+
+"Materials" means the original code, Jupyter notebooks, documentation,
+examples, exercises, and other original content made available in this
+repository by the copyright holders. Materials do not include third-party
+software, datasets, models, trademarks, or other content governed by separate
+terms.
+
+2. Authorized User
+
+An "Authorized User" is an individual who lawfully owns, borrows, or has
+institutional access to the accompanying book, or who has received prior
+written permission from the copyright holders.
+
+3. Limited Permission
+
+Subject to this License, an Authorized User receives a limited, non-exclusive,
+non-transferable, non-sublicensable, and revocable permission to view,
+download, execute, and make local modifications to the Materials solely for:
+
+(a) personal study or research directly associated with the accompanying book;
+or
+
+(b) classroom instruction directly associated with the accompanying book.
+
+An instructor who is an Authorized User may provide unmodified or locally
+adapted copies to students enrolled in the instructor's course through a
+password-protected learning management system for the duration of that course,
+provided that the accompanying book is required or recommended for the course,
+all copyright and license notices remain intact, and access is removed at the
+end of the course.
+
+4. Prohibited Uses
+
+Except as expressly permitted in Section 3 or required by applicable law, no
+person may, without prior written permission from the copyright holders:
+
+(a) publicly repost, mirror, distribute, publish, or make the Materials
+available in another public or shared repository;
+
+(b) sell, rent, sublicense, license, or commercially exploit the Materials;
+
+(c) incorporate the Materials or substantial portions of them into another
+textbook, course package, open educational resource, software product,
+subscription, consulting service, training program, assessment bank, dataset,
+or commercial service;
+
+(d) use the Materials or substantial portions of them to develop or train a
+competing educational product, code collection, foundation model, machine
+learning model, or generative artificial intelligence system;
+
+(e) remove or obscure copyright, attribution, source, or license notices;
+
+(f) represent modified Materials as official, approved, or endorsed by the
+copyright holders; or
+
+(g) use the names, affiliations, logos, or trademarks of the authors, the
+book, the publisher, or any affiliated institution to imply endorsement.
+
+Local modifications made under Section 3 may not be redistributed except
+through the limited password-protected classroom process expressly permitted
+in Section 3.
+
+5. GitHub Platform Rights
+
+The limited rights required for GitHub to host and display this public
+repository, and for GitHub users to use platform features made available under
+GitHub's applicable terms, do not create or imply any broader license to use,
+copy, adapt, distribute, or commercialize the Materials.
+
+6. Third-Party Materials
+
+Third-party software, datasets, models, libraries, and other content remain
+subject to their respective licenses and terms. This License grants no rights
+to third-party materials.
+
+7. No Patent, Trademark, or Endorsement Rights
+
+No patent, trademark, publicity, endorsement, or other rights are granted
+except for the limited copyright permission expressly stated in Section 3.
+
+8. Termination
+
+Permission under this License terminates automatically upon breach. After
+termination, the user must stop using the Materials and delete copies and
+derivative versions in the user's possession or control, except where
+retention is required by law.
+
+9. Disclaimer of Warranty
+
+THE MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTIES OR CONDITIONS
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, OR CONTINUED
+AVAILABILITY.
+
+10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDERS SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER
+DAMAGES ARISING FROM OR RELATED TO THE MATERIALS OR THEIR USE.
+
+11. Reserved Rights
+
+All rights not expressly granted in this License are reserved. Nothing in this
+License limits rights that cannot lawfully be waived or restricted under
+applicable law.
+
+Use of the Materials constitutes acceptance of this License.

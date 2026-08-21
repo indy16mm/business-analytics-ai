@@ -1,2 +1,98 @@
-# business-analytics-ai
-Official companion code and notebooks for Business Analytics and Artificial Intelligence: An Advanced Guide to Data-Driven Decision Making by Hyunhwan "Aiden" Lee and Reo Song.
+# Business Analytics and Artificial Intelligence
+
+## Book
+
+**Business Analytics and Artificial Intelligence: An Advanced Guide to Data-Driven Decision Making**
+**Book authors:** Hyunhwan "Aiden" Lee and Reo Song
+
+## Repository Purpose
+
+This repository hosts companion computational notebooks and repository documentation for the book above.
+
+> **License notice:** These companion materials are copyrighted and are not
+> open-source software. Access to this public repository does not grant broad rights to copy,
+> modify, redistribute, sell, sublicense, or incorporate the materials in another product,
+> course package, or service. See [LICENSE](LICENSE).
+
+## Quick Start (Google Colab)
+
+Readers are encouraged to open notebooks directly in Google Colab. Use the
+Colab link in each notebook row below. Local execution is also possible
+with the listed dependency files.
+
+## Available notebooks
+
+### Chapters
+
+| Identifier | Title | GitHub notebook | Google Colab |
+|---|---|---|---|
+| Ch 04 | Gradient Descent | [notebooks/Ch04_Gradient_Descent.ipynb](notebooks/Ch04_Gradient_Descent.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch04_Gradient_Descent.ipynb) |
+| Ch 14 | Foundations of Deep Learning | [notebooks/Ch14_Foundations_of_Deep_Learning.ipynb](notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch14_Foundations_of_Deep_Learning.ipynb) |
+| Ch 15 | Vision Models | [notebooks/Ch15_Vision_Models.ipynb](notebooks/Ch15_Vision_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch15_Vision_Models.ipynb) |
+| Ch 16 | Sequence and Attention Models | [notebooks/Ch16_Sequence_and_Attention_Models.ipynb](notebooks/Ch16_Sequence_and_Attention_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch16_Sequence_and_Attention_Models.ipynb) |
+| Ch 17 | Autoencoders and Representation Learning | [notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb](notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch17_Autoencoders_and_Representation_Learning.ipynb) |
+| Ch 18 | Classic Generative Models | [notebooks/Ch18_Classic_Generative_Models.ipynb](notebooks/Ch18_Classic_Generative_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch18_Classic_Generative_Models.ipynb) |
+| Ch 19 | Modern Generative Models | [notebooks/Ch19_Modern_Generative_Models.ipynb](notebooks/Ch19_Modern_Generative_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch19_Modern_Generative_Models.ipynb) |
+| Ch 20 | Text Pre-processing and Data Quality | [notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb](notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb) |
+| Ch 21 | Embeddings and Similarity | [notebooks/Ch21_Embeddings_and_Similarity.ipynb](notebooks/Ch21_Embeddings_and_Similarity.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch21_Embeddings_and_Similarity.ipynb) |
+| Ch 22 | Topic Modeling and Theme Discovery | [notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb](notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb) |
+| Ch 23 | Sentiment and Text Classification | [notebooks/Ch23_Sentiment_and_Text_Classification.ipynb](notebooks/Ch23_Sentiment_and_Text_Classification.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch23_Sentiment_and_Text_Classification.ipynb) |
+| Ch 24 | Transformers and Large Language Models | [notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb](notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch24_Transformers_and_Large_Language_Models.ipynb) |
+| Ch 25 | Retrieval-Augmented Text Mining | [notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb](notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb) |
+
+### Appendices
+
+| Identifier | Title | GitHub notebook | Google Colab |
+|---|---|---|---|
+| Appendix A | Google Colab | [appendices/Appendix_A_Google_Colab.ipynb](appendices/Appendix_A_Google_Colab.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_A_Google_Colab.ipynb) |
+| Appendix B | Python Basics | [appendices/Appendix_B_Python_Basics.ipynb](appendices/Appendix_B_Python_Basics.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_B_Python_Basics.ipynb) |
+| Appendix C | SQL for Business Analytics | [appendices/Appendix_C_SQL_for_Business_Analytics.ipynb](appendices/Appendix_C_SQL_for_Business_Analytics.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_C_SQL_for_Business_Analytics.ipynb) |
+| Appendix D | NoSQL and Document-Oriented Databases | [appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb](appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb) | [Colab](https://colab.research.google.com/github/indy16mm/business-analytics-ai/blob/main/appendices/Appendix_D_NoSQL_and_Document_Oriented_Databases.ipynb) |
+
+## Repository structure
+
+```text
+business-analytics-ai/
+├── .github/
+├── AGENTS.md
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── requirements-dev.txt
+├── .gitignore
+├── data/
+│   └── README.md
+├── notebooks/
+│   └── README.md
+├── appendices/
+│   └── README.md
+└── scripts/
+    └── validate_notebooks.py
+```
+
+## Software and runtime guidance
+
+- The repository follows a public, lightweight, notebook-sharing setup.
+- A stable base environment is declared in `requirements.txt`.
+- Deep-learning and database notebooks may require additional optional dependencies and resources; see execution notes in the notebook-level descriptions and this report.
+- Use Python 3.13+ where possible.
+
+## Data and privacy policy
+
+- Companion notebooks are intended to run on synthetic or clearly documented data-generation paths.
+- No manuscript files, private datasets, model checkpoints, or credentials are included in this repository.
+- Do not commit private or restricted materials.
+
+## Corrections and updates
+
+- Review this repository as notebooks are expanded by chapter.
+- New notebooks and any dependency updates will be documented in future updates and PRs.
+
+## Citation status
+
+Final citation metadata will be added once officially provided by the publisher and authors.
+
+## Authors
+
+- Hyunhwan "Aiden" Lee
+- Reo Song
