@@ -236,3 +236,8 @@ data/restricted/
 .env
 .env.*
 !.env.example
+
+# Local workspace artifacts
+.DS_Store
+drive-download-20260821T213520Z-1-001/
+drive-download-20260821T213520Z-1-001.zip

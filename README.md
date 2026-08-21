@@ -96,7 +96,9 @@ business-analytics-ai/
 
 ## Data and privacy policy
 
-- Companion notebooks are intended to run on synthetic or clearly documented data-generation paths.
+- Companion notebooks rely on locally included small demonstration datasets in `data/` where provided.
+- Small, approved, redistributable dataset files included: `Bank customer.csv`, `Credit card fraud.csv`, `Customer churn.csv`, `Housing price.csv`, `Movie.csv`, `Student performance.csv`, `Wholesale customer.csv`, and `Wine.csv`.
+- Some examples also support optional remote dataset sources documented in notebooks.
 - No manuscript files, private datasets, model checkpoints, or credentials are included in this repository.
 - Do not commit private or restricted materials.
 

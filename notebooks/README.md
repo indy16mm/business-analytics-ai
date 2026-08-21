@@ -10,6 +10,7 @@ Primary chapter notebooks use the format `ChNN_Title.ipynb` and are stored at th
 - Run notebook cells in order from top to bottom.
 - Generated outputs are not committed; keep notebooks in a clean execution state.
 - Follow the repository license for all usage and redistribution constraints.
+- Chapter 05–13 example notebooks load small CSV files from local package datasets in `data/`.
 
 ## Available
 
