@@ -1,0 +1,52 @@
+name: Validate notebooks
+
+on:
+  pull_request:
+    paths:
+      - 'notebooks/**'
+      - 'appendices/**'
+      - 'requirements*.txt'
+      - 'scripts/**'
+      - '.github/workflows/**'
+  push:
+    branches: [main]
+    paths:
+      - 'notebooks/**'
+      - 'appendices/**'
+      - 'requirements*.txt'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install validation dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+      - name: Run static validation
+        run: |
+          python scripts/validate_notebooks.py
+      - name: Execute CI-safe notebooks
+        env:
+          MPLBACKEND: Agg
+        run: |
+          mkdir -p /tmp/notebook-exec
+          for nb in \
+            notebooks/Ch04_Gradient_Descent.ipynb \
+            notebooks/Ch20_Text_Preprocessing_and_Data_Quality.ipynb \
+            notebooks/Ch21_Embeddings_and_Similarity.ipynb \
+            notebooks/Ch22_Topic_Modeling_and_Theme_Discovery.ipynb \
+            notebooks/Ch23_Sentiment_and_Text_Classification.ipynb \
+            notebooks/Ch25_Retrieval_Augmented_Text_Mining.ipynb; do
+            python -m nbconvert --to notebook --execute "$nb" --output-dir /tmp/notebook-exec --output "$(basename "$nb" .ipynb).executed.ipynb" --ExecutePreprocessor.timeout=300 --ExecutePreprocessor.kernel_name=python3
+          done

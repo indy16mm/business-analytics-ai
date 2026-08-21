@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebook-generated outputs
+ch*_outputs/
+**/ch*_outputs/
+notebook_outputs/
+**/notebook_outputs/
+.executed_notebooks/
+
+# Local or restricted data
+data/raw/
+data/private/
+data/restricted/
+
+# Credentials
+.env
+.env.*
+!.env.example
