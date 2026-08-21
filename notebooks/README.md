@@ -15,3 +15,4 @@ Primary chapter notebooks use the format `ChNN_Title.ipynb` and are stored at th
 
 All notebooks below are currently committed and normalized with Colab links and licensing text in the first markdown cell.
 
+Current scope includes chapters 04 through 13 and 14 through 25, plus appendix materials.
